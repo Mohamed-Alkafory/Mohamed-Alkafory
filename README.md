@@ -7,13 +7,14 @@
 </div>
 
 <h1 align="center">⚡️ Backend Developer ⚡️</h1>
-
-javawhile(alive) {
+<div align="center">
+java 
+while(alive) {
     code();
     anime();
     repeat();
 }
-
+</div>
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
 > *"I'm not a great programmer; I'm just a good programmer with great habits."*
