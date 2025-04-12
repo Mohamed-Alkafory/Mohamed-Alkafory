@@ -10,7 +10,37 @@ I'm a passionate **Full-Stack Developer** with a love for coding, anime, and all
 
 ## 🌟 About Me
 
-- **Name:** Mohamed Hamed Alkafory  
+- **Name:** Mohamed Hamed Alkafory  <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=28&duration=4000&pause=1000&color=FF9A8B&center=true&vCenter=true&width=500&height=80&lines=Kon'nichiwa+World+🌏;I'm+Anime+Developer+🍥;Welcome+to+my+Profile+✨" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ5Y2R0b3g4d2VxZ2F5dWJ5ZzR3eGZqY2VjZzV0eHZ6dG5xYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZN5C7WXyH0Sdy/giphy.gif" width="300" height="300"/>
+</div>
+
+## 🎌 About Me
+
+```python
+class AnimeDeveloper:
+    def __init__(self):
+        self.name = "Your Name"
+        self.rank = "Elite Weeb"
+        self.skills = {
+            'frontend': ['React', 'Vue', 'Tailwind'],
+            'backend': ['Node.js', 'Python', 'Go'],
+            'devops': ['Docker', 'AWS', 'CI/CD']
+        }
+        self.current_quest = "Building the ultimate anime database"
+        self.favorite_series = {
+            'all_time': 'Steins;Gate',
+            'current': 'Oshi no Ko',
+            'guilty_pleasure': 'Eromanga Sensei'
+        }
+    
+    def greet(self):
+        return "Yoroshiku onegaishimasu! 🎌"
+    
+me = AnimeDeveloper()
 - **Alias:** Code Samurai ⚔️ | Debugging Ninja 🥷  
 - **Role:** Full-Stack Developer 💻  
 - **Location:** [Your City/Country] 🗺️  
