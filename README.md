@@ -1,39 +1,43 @@
 <div align="center">
-  <h1>👋 Welcome to My GitHub!</h1>
-  <img src="https://media.giphy.com/media/anime_character_waving/giphy.gif" width="200"/>
-  <p>Hi, I'm [Mohamed Hamed Alkafory] - Software Developer | Anime Lover | Building creative solutions</p>
+  <h1>👋 Welcome, I'm Mohamed Hamed Alkafory!</h1>
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200"/>
+  <p>Software Developer | Anime Lover | Building projects with a spark of creativity ✨</p>
 </div>
 
 ## About Me
-- 💻 Skilled in Python, JavaScript, and Node.js.
-- 🎨 Inspired by *Demon Slayer* to craft visually stunning apps.
-- 🌟 Working on a machine learning project inspired by *Psycho-Pass*.
-- 📫 Contact: [email@example.com](alkmohamed40@gmail.com) | [Twitter](https://twitter.com/yourhandle)
+- 💻 Aspiring software developer with a focus on [add your skills, e.g., Python, JavaScript, etc.].
+- 🎨 Inspired by anime like *Your Name* to create clean, user-friendly applications.
+- 🌟 Learning and exploring new tech, driven by the determination of *Naruto*’s spirit.
+- 📫 Reach me at: [alkmohamed40@gmail.com](mailto:alkmohamed40@gmail.com)
+- 🔗 Check out my [Portfolio/LinkedIn/Twitter] (update with your links)
 
 ## Skills
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Favorite_Anime-Naruto-FF4500?style=for-the-badge" alt="Favorite Anime"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/Favorite_Anime-Your_Name-FF69B4?style=for-the-badge" alt="Favorite Anime"/>
 </div>
 
 ## Featured Projects
-- **[Anime Trivia Bot](https://github.com/yourusername/anime-bot)**: A Discord bot for anime fans, built with Node.js.  
-  <img src="https://your-image-host/bot_screenshot.png" width="150"/>
-- **[Portfolio](https://github.com/yourusername/portfolio)**: My *Sailor Moon*-themed personal site.  
-  <img src="https://your-image-host/portfolio_screenshot.png" width="150"/>
+- **[Project Name](https://github.com/MohamedHamedAlkafory/project-repo)**: A [describe, e.g., web app] inspired by anime aesthetics. Built with [tech stack].  
+  <img src="https://via.placeholder.com/150?text=Project+1" width="150"/>
+- **[Another Project](https://github.com/MohamedHamedAlkafory/another-repo)**: A [describe, e.g., quiz game] with *Attack on Titan*-style visuals.  
+  <img src="https://via.placeholder.com/150?text=Project+2" width="150"/>
 
-## Stats
+## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedHamedAlkafory&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHamedAlkafory&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </div>
 
 ## Connect with Me
 <div align="center">
+  <a href="mailto:alkmohamed40@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/></a>
 </div>
 
 <div align="center">
-  <p>✨ "Believe it!" - Naruto ✨</p>
+  <p>✨ "The future belongs to those who believe in their dreams!" - Inspired by *Shugo Chara* ✨</p>
+  <img src="https://media.giphy.com/media/l0Iyl55kTeh71nTWw/giphy.gif" width="100"/>
 </div>
