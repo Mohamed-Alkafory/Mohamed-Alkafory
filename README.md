@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Welcome, I'm Mohamed Hamed Alkafory!</h1>
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200"/>
+  <img src="[invalid url, do not cite] width="200"/>
   <p>Software Developer | Anime Lover | Building projects with a spark of creativity ✨</p>
 </div>
 
@@ -19,12 +19,6 @@
   <img src="https://img.shields.io/badge/Favorite_Anime-Your_Name-FF69B4?style=for-the-badge" alt="Favorite Anime"/>
 </div>
 
-## Featured Projects
-- **[Project Name](https://github.com/MohamedHamedAlkafory/project-repo)**: A [describe, e.g., web app] inspired by anime aesthetics. Built with [tech stack].  
-  <img src="https://via.placeholder.com/150?text=Project+1" width="150"/>
-- **[Another Project](https://github.com/MohamedHamedAlkafory/another-repo)**: A [describe, e.g., quiz game] with *Attack on Titan*-style visuals.  
-  <img src="https://via.placeholder.com/150?text=Project+2" width="150"/>
-
 ## GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedHamedAlkafory&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
@@ -34,10 +28,10 @@
 ## Connect with Me
 <div align="center">
   <a href="mailto:alkmohamed40@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="[invalid url, do not cite] src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 
 <div align="center">
   <p>✨ "The future belongs to those who believe in their dreams!" - Inspired by *Shugo Chara* ✨</p>
-  <img src="https://media.giphy.com/media/l0Iyl55kTeh71nTWw/giphy.gif" width="100"/>
+  <img src="[invalid url, do not cite] width="100"/>
 </div>
