@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/p43xXF3.gif" height="300"/>
+  <img src=""D:\Downloads\d95f189fe508c20360d5c8e187203eb8.jpg"" height="300"/>
 </div>
 
 <h1 align="center">⚡️ Backend Developer ⚡️</h1>
