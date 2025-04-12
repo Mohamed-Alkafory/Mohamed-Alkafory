@@ -26,7 +26,7 @@ Training and improving my skills in creating scalable and efficient backend syst
 
 ### 💬 Let's Connect 💬
 <!-- Add your contact information here -->
-- Discord: YourDiscordTag
+- Linkedin: www.linkedin.com/in/mohamed-hamed-alkafory-1b7494324
 - Email: alkmohamed40@gmail.com
 
 ---
