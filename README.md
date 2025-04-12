@@ -8,31 +8,11 @@
 
 <h1 align="center">⚡️ Backend Developer ⚡️</h1>
 
-<div align="center">
-  
-  ```cpp
-  class Programmer {
-  private:
-    string name = "Mohamed Hamed Alkafory";
-    vector<string> languages = {"C++", "Java", "C#"};
-    bool isCoding = true;
-    
-  public:
-    void dailyRoutine() {
-      while(isCoding) {
-        code();
-        watchAnime();
-        drinkCoffee();
-        if(needSleep()) {
-          sleep();
-          dream();
-        }
-      }
-    }
-  };
-  ```
-  
-</div>
+javawhile(alive) {
+    code();
+    anime();
+    repeat();
+}
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
