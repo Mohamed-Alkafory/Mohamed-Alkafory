@@ -1,14 +1,14 @@
 <div align="center">
   <h1>👋 Welcome to My GitHub!</h1>
   <img src="https://media.giphy.com/media/anime_character_waving/giphy.gif" width="200"/>
-  <p>Hi, I'm [Your Name] - Software Developer | Anime Lover | Building creative solutions</p>
+  <p>Hi, I'm [Mohamed Hamed Alkafory] - Software Developer | Anime Lover | Building creative solutions</p>
 </div>
 
 ## About Me
 - 💻 Skilled in Python, JavaScript, and Node.js.
 - 🎨 Inspired by *Demon Slayer* to craft visually stunning apps.
 - 🌟 Working on a machine learning project inspired by *Psycho-Pass*.
-- 📫 Contact: [email@example.com](mailto:email@example.com) | [Twitter](https://twitter.com/yourhandle)
+- 📫 Contact: [email@example.com](alkmohamed40@gmail.com) | [Twitter](https://twitter.com/yourhandle)
 
 ## Skills
 <div align="center">
