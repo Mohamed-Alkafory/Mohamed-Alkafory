@@ -1,32 +1,30 @@
-# 👋 Konnichiwa! I'm [Your Name] 🌸
+# 👋 Konnichiwa! I'm Mohamed Hamed Alkafory 🌸
 
 <img src="https://i.imgur.com/your-anime-image.gif" alt="Anime Banner" width="100%"/>
 
 > "Believe in the me that believes in you!" - Kamina, *Tengen Toppa Gurren Lagann*
 
-I'm a passionate developer with a love for coding, anime, and all things otaku! ✨
+I'm a passionate **Full-Stack Developer** with a love for coding, anime, and all things otaku! ✨  
 
-![Anime Intro GIF](https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif)
+![Anime Intro GIF](https://media.giphy.com/media/xUA7baWfTjfHGLZc3e/giphy.gif)
 
 ---
 
 ## 🌟 About Me
 
-- **Name:** [Your Name]  
-- **Alias:** [Your Anime-Inspired Nickname]  
-- **Role:** Code Samurai ⚔️ | Debugging Ninja 🥷  
+- **Name:** Mohamed Hamed Alkafory  
+- **Alias:** Code Samurai ⚔️ | Debugging Ninja 🥷  
+- **Role:** Full-Stack Developer 💻  
 - **Location:** [Your City/Country] 🗺️  
-- **Languages I Speak:** [Programming Languages & Human Languages]  
+- **Languages I Speak:** JavaScript, Python, PHP, HTML, CSS, SQL (and Arabic & English!)  
 
-> My waifu/husbando is [Favorite Anime Character], and my favorite anime is [*Insert Anime Title*].  
-
-![Otaku GIF](https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif)
+> My waifu is [Favorite Anime Character], and my favorite anime is [*Insert Anime Title*].  
 
 ### 💻 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** Node.js, Python, Ruby  
-- **Database:** MySQL, MongoDB  
-- **Tools:** Git, Docker, VSCode  
+- **Frontend:** HTML, CSS, JavaScript, React, Vue.js  
+- **Backend:** Node.js, Django, Flask, PHP  
+- **Database:** MySQL, MongoDB, PostgreSQL  
+- **Tools:** Git, Docker, VSCode, Figma  
 
 ### 🎮 Hobbies
 - Watching anime 📺  
@@ -34,7 +32,7 @@ I'm a passionate developer with a love for coding, anime, and all things otaku! 
 - Collecting figurines and merch 🛍️  
 - Learning new jutsu... I mean, coding techniques! 😉  
 
-![Gaming GIF](https://media.giphy.com/media/l4FGwvGkm85QHk79y/giphy.gif)
+![Otaku GIF](https://media.giphy.com/media/3oKIPjA2fnxQrDy6U8/giphy.gif)
 
 ---
 
@@ -46,7 +44,7 @@ I'm a passionate developer with a love for coding, anime, and all things otaku! 
   **Description:** [Brief description of the project]  
   **Tech Used:** [List of technologies]  
 
-![Coding GIF](https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/WS6vGUtyl99XOwAn2M/giphy.gif)
 
 ### ✅ Completed Missions
 - **Project Name:** [Project Title]  
@@ -76,7 +74,7 @@ I'm a passionate developer with a love for coding, anime, and all things otaku! 
 - **Discord:** [Your Discord Username] 🎮  
 - **LinkedIn:** [Your LinkedIn Profile] 💼  
 
-![Contact GIF](https://media.giphy.com/media/l4FGDZgzK4lFzWYxy/giphy.gif)
+![Contact GIF](https://media.giphy.com/media/3ohzdYz4gVQ2RAb9Py/giphy.gif)
 
 > "If you want to contact me, just send a pigeon... or an email. Both work!"
 
