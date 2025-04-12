@@ -1,7 +1,10 @@
 # ✨ Hello World! I'm Mohamed Hamed Alkafory ✨
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-
+<h1>👋 Welcome, I'm Mohamed Hamed Alkafory!</h1>
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200"/>
+  <p>Software Developer | Anime Lover | Building projects with a spark of creativity ✨</p>
+</div>
 ## 🧙‍♂️ Backend Developer | Code Wizard 🧙‍♂️
 
 ```java
@@ -26,7 +29,7 @@ Training and improving my skills in creating scalable and efficient backend syst
 ### 💬 Let's Connect 💬
 <!-- Add your contact information here -->
 - Discord: YourDiscordTag
-- Email: your.email@example.com
+- Email: alkmohamed40@gmail.com
 
 ---
 
