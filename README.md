@@ -1,64 +1,43 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohamed%20Hamed%20Alkafory&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=white" width="100%"/>
+  <h1>👋 Welcome, I'm Mohamed Hamed Alkafory!</h1>
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200"/>
+  <p>Software Developer | Anime Lover | Building projects with a spark of creativity ✨</p>
+</div>
+
+## About Me
+- 💻 Aspiring software developer with a focus on [add your skills, e.g., Python, JavaScript, etc.].
+- 🎨 Inspired by anime like *Your Name* to create clean, user-friendly applications.
+- 🌟 Learning and exploring new tech, driven by the determination of *Naruto*’s spirit.
+- 📫 Reach me at: [alkmohamed40@gmail.com](mailto:alkmohamed40@gmail.com)
+- 🔗 Check out my [Portfolio/LinkedIn/Twitter] (update with your links)
+
+## Skills
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/Favorite_Anime-Your_Name-FF69B4?style=for-the-badge" alt="Favorite Anime"/>
+</div>
+
+## Featured Projects
+- **[Project Name](https://github.com/MohamedHamedAlkafory/project-repo)**: A [describe, e.g., web app] inspired by anime aesthetics. Built with [tech stack].  
+  <img src="https://via.placeholder.com/150?text=Project+1" width="150"/>
+- **[Another Project](https://github.com/MohamedHamedAlkafory/another-repo)**: A [describe, e.g., quiz game] with *Attack on Titan*-style visuals.  
+  <img src="https://via.placeholder.com/150?text=Project+2" width="150"/>
+
+## GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedHamedAlkafory&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHamedAlkafory&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</div>
+
+## Connect with Me
+<div align="center">
+  <a href="mailto:alkmohamed40@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/p43xXF3.gif" height="300"/>
+  <p>✨ "The future belongs to those who believe in their dreams!" - Inspired by *Shugo Chara* ✨</p>
+  <img src="https://media.giphy.com/media/l0Iyl55kTeh71nTWw/giphy.gif" width="100"/>
 </div>
-
-<h1 align="center">⚡️ Backend Developer ⚡️</h1>
-while(alive) {
-    code();
-    anime();
-    repeat();
-}
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
-
-> *"I'm not a great programmer; I'm just a good programmer with great habits."*
-
-- 🔭 Backend developer crafting elegant solutions
-- 💻 Passionate about system architecture and performance optimization
-- 🌱 Constantly leveling up my coding skills
-- 🎮 Anime enthusiast with a love for debugging
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-</div>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect With Me
-
-<div align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/YourGitHubUsername">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40"> GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=nord&column=7&no-frame=true" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
-</div>
-
-<!-- Credits: Made with ❤️ by Mohamed -->
