@@ -2,9 +2,7 @@
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200"/>
-  <p>Software Developer | Anime Lover | Building projects with a spark of creativity ✨</p>
-</div>
+  
 ## 🧙‍♂️ Backend Developer | Code Wizard 🧙‍♂️
 
 ```java
