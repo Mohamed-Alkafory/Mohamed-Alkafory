@@ -1,49 +1,75 @@
 # 👋 Hello, I'm Mohamed Hamed Alkafory
 
-## 💻 Backend Developer & Computer Science Student
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200"/>
+</div>
 
-I'm passionate about building robust, scalable backend systems and constantly expanding my knowledge in software engineering.
+## 💻 Full Stack Developer & Computer Science Student
+
+I'm passionate about building responsive web applications with clean, efficient code and constantly expanding my knowledge in software engineering.
 
 ### 🎓 Education
 - Computer Science Student
-- Specializing in Backend Development
+- Specializing in Full Stack Development
 
 ### 🛠️ Technical Skills
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" height="50"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50" height="50"/>
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50" height="50"/>
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" height="50"/>
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" height="50"/>
+</div>
+
 - **Programming Languages:** 
-  - Java, Python, JavaScript/TypeScript
+  - C++, Java, C#
+  - JavaScript
+  - Python
   - SQL
   
-- **Technologies & Frameworks:**
-  - Spring Boot, Node.js, Express
+- **Frontend:**
+  - HTML, CSS, JavaScript
+  - React
+  - Responsive Design
+  
+- **Backend:**
+  - Node.js, Express
+  - ASP.NET Core
+  - Spring Boot
   - RESTful API Design & Development
-  - Microservices Architecture
-  - Database Systems (MySQL, PostgreSQL, MongoDB)
-  - Docker, Kubernetes
-  - CI/CD Pipelines
-
+  
+- **Database Systems:**
+  - MySQL, PostgreSQL, MongoDB
+  
 - **Tools:**
   - Git & GitHub
+  - VS Code, Visual Studio
   - Postman
+  - Docker
   - Linux/Unix
-  - AWS/Cloud Services
 
 ### 🔭 Current Focus
-- Deepening my understanding of system design principles
-- Implementing clean architecture in backend applications
-- Exploring cloud-native development practices
+- Building full stack web applications
+- Improving UI/UX design skills
+- Learning modern JavaScript frameworks
 - Contributing to open-source projects
 
 ### 🌱 Learning Path
-- Advanced database optimization techniques
-- Serverless architecture
-- GraphQL APIs
-- Performance optimization & scalability
+- Advanced frontend frameworks
+- Cloud deployment solutions
+- Mobile app development
+- Microservices architecture
+
+<div align="center">
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="150" height="150"/>
+</div>
 
 ### 📈 GitHub Stats
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
 ### 📊 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
 
 ### 📫 How to Reach Me
 - LinkedIn: [Mohamed Hamed Alkafory](https://www.linkedin.com/in/YourLinkedInUsername/)
@@ -51,8 +77,12 @@ I'm passionate about building robust, scalable backend systems and constantly ex
 - Portfolio: [yourportfolio.com](https://www.yourportfolio.com)
 
 ### 💬 Let's Connect
-I'm always open to collaborating on projects, discussing backend technologies, or connecting with fellow developers. Feel free to reach out!
+I'm always open to collaborating on projects and connecting with fellow developers. Feel free to reach out!
+
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 ---
 
-⭐️ *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+⭐️ *"The best way to predict the future is to implement it."*
