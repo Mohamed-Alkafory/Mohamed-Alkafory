@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohamed%20Hamed%20Alkafory&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=white" width="100%"/>
+</div>
+
 # 👋 Hello, I'm Mohamed Hamed Alkafory
 
 <div align="center">
@@ -7,6 +11,10 @@
 ## 💻 Full Stack Developer & Computer Science Student
 
 I'm passionate about building responsive web applications with clean, efficient code and constantly expanding my knowledge in software engineering.
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Computer+Science+Student;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+</div>
 
 ### 🎓 Education
 - Computer Science Student
@@ -65,16 +73,42 @@ I'm passionate about building responsive web applications with clean, efficient 
   <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="150" height="150"/>
 </div>
 
-### 📈 GitHub Stats
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=algolia&no-frame=true&row=1&&margin-w=30&no-bg=true" width="100%" alt="Trophy" />
+</div>
 
-### 📊 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/YourGitHubUsername">
+    <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" height="165" alt="GitHub stats"/>
+  </a>
+  <a href="https://github.com/YourGitHubUsername">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" height="165" alt="Top Languages"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=react-dark" width="100%" alt="Activity Graph"/>
+</div>
 
 ### 📫 How to Reach Me
-- LinkedIn: [Mohamed Hamed Alkafory](https://www.linkedin.com/in/YourLinkedInUsername/)
-- Email: youremail@example.com
-- Portfolio: [yourportfolio.com](https://www.yourportfolio.com)
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/YourLinkedInUsername/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
 
 ### 💬 Let's Connect
 I'm always open to collaborating on projects and connecting with fellow developers. Feel free to reach out!
@@ -83,6 +117,14 @@ I'm always open to collaborating on projects and connecting with fellow develope
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square&color=blue" alt="Profile views"/>
+</div>
+
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
 
 ⭐️ *"The best way to predict the future is to implement it."*
