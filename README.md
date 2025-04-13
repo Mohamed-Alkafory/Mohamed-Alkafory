@@ -42,19 +42,16 @@ I'm passionate about building responsive web applications with clean, efficient 
   - Responsive Design
   
 - **Backend:**
-  - Node.js, Express
+  - Node.js
   - ASP.NET Core
   - Spring Boot
   - RESTful API Design & Development
   
 - **Database Systems:**
-  - MySQL, PostgreSQL, MongoDB
-  
+  - MySQL
 - **Tools:**
   - Git & GitHub
   - VS Code, Visual Studio
-  - Postman
-  - Docker
   - Linux/Unix
 
 ### 🔭 Current Focus
