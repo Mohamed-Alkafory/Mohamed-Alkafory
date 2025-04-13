@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohamed%20Hamed%20Alkafory&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=white" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20,21,22&height=200&section=header&text=Mohamed%20Hamed%20Alkafory&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=white" width="100%"/>
 </div>
 
 # 👋 Hello, I'm Mohamed Hamed Alkafory
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" height="200"/>
 </div>
 
 ## 💻 Full Stack Developer & Computer Science Student
@@ -42,16 +42,19 @@ I'm passionate about building responsive web applications with clean, efficient 
   - Responsive Design
   
 - **Backend:**
-  - Node.js
+  - Node.js, Express
   - ASP.NET Core
   - Spring Boot
   - RESTful API Design & Development
   
 - **Database Systems:**
-  - MySQL
+  - MySQL, PostgreSQL, MongoDB
+  
 - **Tools:**
   - Git & GitHub
   - VS Code, Visual Studio
+  - Postman
+  - Docker
   - Linux/Unix
 
 ### 🔭 Current Focus
@@ -96,10 +99,10 @@ I'm passionate about building responsive web applications with clean, efficient 
 ### 📫 How to Reach Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mohamed-hamed-alkafory-1b7494324/">
+  <a href="https://www.linkedin.com/in/YourLinkedInUsername/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:alkmohamed40@gmail.com">
+  <a href="mailto:youremail@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.yourportfolio.com">
@@ -121,7 +124,7 @@ I'm always open to collaborating on projects and connecting with fellow develope
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20,21,22&height=100&section=footer" width="100%"/>
 </div>
 
 ⭐️ *"The best way to predict the future is to implement it."*
