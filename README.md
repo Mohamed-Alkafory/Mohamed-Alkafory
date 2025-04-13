@@ -48,14 +48,11 @@ I'm passionate about building responsive web applications with clean, efficient 
   - RESTful API Design & Development
   
 - **Database Systems:**
-  - MySQL, PostgreSQL, MongoDB
+  - MySQL
   
 - **Tools:**
   - Git & GitHub
   - VS Code, Visual Studio
-  - Postman
-  - Docker
-  - Linux/Unix
 
 ### 🔭 Current Focus
 - Building full stack web applications
@@ -99,15 +96,11 @@ I'm passionate about building responsive web applications with clean, efficient 
 ### 📫 How to Reach Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YourLinkedInUsername/">
+  <a href="https://www.linkedin.com/in/mohamed-hamed-alkafory-1b7494324/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:alkmohamed40@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
 </div>
 
 ### 💬 Let's Connect
