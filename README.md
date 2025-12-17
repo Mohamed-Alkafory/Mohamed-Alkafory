@@ -43,7 +43,6 @@ I'm passionate about building responsive web applications with clean, efficient 
   
 - **Backend:**
   - Node.js, Express
-  - ASP.NET Core
   - Spring Boot
   - RESTful API Design & Development
   
