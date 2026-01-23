@@ -8,18 +8,16 @@
 <br/>
 
 <div align="center">
+        
+  👨‍💻 Computer Science student sharing my learning journey in tech
  
- 👨‍💻 Computer Science student sharing my learning journey in tech
- 
- 🎓 Studying Computer Science (2rd year)
+ 🎓 Studying Computer Science (2nd year)
 
 ✨ Aspiring Full-Stack Developer, learning step by step
 
-⚡Building projects and learning in public
+⚡ Building projects and learning in public
 
 🧠 Interested in software development and problem solving
-
-
 
  <hr/>
  
@@ -53,12 +51,23 @@
 <br/>
 
 <div align="center">
+    <hr width="50%"/>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=18&duration=4000&pause=2000&color=FF6B8B&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+🎉;Code+with+passion+❤️;Build+with+purpose+🚀;See+you+around!+👋" />
+  
+  <br/>
+  
   <p>
-    <i>Thanks for stopping by! Feel free to fork projects, raise issues, or submit PRs.</i>
+    <i>"First, solve the problem. Then, write the code." – John Johnson</i>
   </p>
   
   <p>
-    <img src="https://komarev.com/ghpvc/?username=Mohamed-Alkafory&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
-    <img src="https://img.shields.io/github/last-commit/Mohamed-Alkafory/Mohamed-Alkafory?label=Last+Updated&style=flat" />
+    <i>Made with ❤️ by Mohamed Hamed</i>
   </p>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&reversal=true" />
+  
 </div>
+ 
+</div>
+
