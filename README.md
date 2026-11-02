@@ -16,5 +16,5 @@
 <h3 align="center">Languages & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,react,angular,nodejs,nestjs,postgres,mongodb,docker,git,linux&perline=14" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,react,angular,nodejs,nestjs,postgres,mongodb,postman,docker,linux&perline=14" alt="Languages and Tools" />
 </p>
